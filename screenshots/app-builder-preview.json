@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "CredChain · Credit built on-chain",
+      "hasCanvas": false,
+      "bodyTextLen": 1956,
+      "bodyTextHash": "aca8a34b07df834bd8e98a682e93e4d4ba87791c05f448ccce775efe36837930",
+      "bodyTextPrefix": "CredChain Home Wallet About English हिन्दी বাংলা தமிழ் తెలుగు मर",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "CredChain · Credit built on-chain",
+      "hasCanvas": false,
+      "bodyTextLen": 1956,
+      "bodyTextHash": "aca8a34b07df834bd8e98a682e93e4d4ba87791c05f448ccce775efe36837930",
+      "bodyTextPrefix": "CredChain Home Wallet About English हिन्दी বাংলা தமிழ் తెలుగు मर",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
